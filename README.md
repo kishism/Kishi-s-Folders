@@ -55,5 +55,4 @@ Stay tuned for more icons being added regularly. ❤️
 
 ---
 
-> **Note**: If you have any questions or want to contribute, feel free to open an issue or create a pull request!
 > Sadly, this is only for Windows as of now.
