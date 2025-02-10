@@ -2,12 +2,6 @@
 
 This is a collection of customizable folder icons that you can use to organize your files with style.
 
-## Features
-
-- A variety of modern and aesthetic folder icons.
-- Simple and easy to integrate into your own projects.
-- Customizable for personal use.
-
 ## Preview
 
 Here are some icons included in the pack:
