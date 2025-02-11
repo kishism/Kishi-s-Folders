@@ -116,3 +116,30 @@ body {
   transform: translate(3px, 3px);
   box-shadow: 0px 0px var(--main-color);
 }
+
+footer {
+  text-align: center;
+  padding: 10px 0;
+}
+
+
+.footer-icons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.footer-icons a {
+  text-decoration: none;
+  font-size: 24px;
+  transition: transform 0.3s ease;
+}
+
+.footer-icons img {
+  width: 3em; 
+  height: 3em;
+}
+
+.footer-icons a:hover {
+  transform: scale(1.2);
+}
