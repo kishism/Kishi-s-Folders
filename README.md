@@ -2,6 +2,8 @@
 
 This is a collection of customizable folder icons that you can use to organize your files with style.
 
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+
 ## Preview
 
 Here are some icons included in the pack:
